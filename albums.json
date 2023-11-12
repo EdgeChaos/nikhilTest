@@ -1,0 +1,38 @@
+[
+    {
+        "artist": "Thaman S",
+        "title": "Ala Vaikunthapurramuloo",
+        "year": 2020,
+        "tracks": [
+            "Butta Bomma",
+            "Ramuloo Ramulaa",
+            "Samajavaragamana",
+            "OMG Daddy",
+            "Sittharala Sirapadu"
+        ]
+    },
+    {
+        "artist": "Devi Sri Prasad",
+        "title": "Rangasthalam",
+        "year": 2018,
+        "tracks": [
+            "Yentha Sakkagunnave",
+            "Ranga Ranga Rangasthalaana",
+            "Rangamma Mangamma",
+            "Aa Gattununtaava",
+            "Jigelu Rani"
+        ]
+    },
+    {
+        "artist": "Anirudh Ravichander",
+        "title": "Agnyaathavaasi",
+        "year": 2018,
+        "tracks": [
+            "Baitikochi Chuste",
+            "Dhaga Dhagamaney",
+            "Gaali Vaaluga",
+            "AB Yevaro Nee Baby",
+            "Swagatham Krishna"
+        ]
+    }
+]
